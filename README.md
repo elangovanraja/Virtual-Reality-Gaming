@@ -38,3 +38,8 @@ LIMITATION:
  Increased complexity
  When the environment of the game extends, accurate matching between bullet and
 player becomes difficult
+
+Run DB.sql to create database
+$ cd PROJECTNAME
+$mvn compile
+$mvn exec:java
